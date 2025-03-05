@@ -1,91 +1,19 @@
-ServiceNow Enters the CRM Market with a Bold Declaration
-During its 2025 Partner Kickoff, ServiceNow made a bold announcement:
+What I Worked On
 
-“We are in CRM.”
+February 2021
 
-This statement came from John Ball, SVP & GM of CRM Workflows at ServiceNow, as he celebrated the company’s leader position in the 2024 Gartner Magic Quadrant for CRM Customer Engagement Center.
+Before college the two main things I worked on, outside of school, were writing and programming. I didn't write essays. I wrote what beginning writers were supposed to write then, and probably still are: short stories. My stories were awful. They had hardly any plot, just characters with strong feelings, which I imagined made them deep.
 
-For years, ServiceNow refrained from explicitly using the term "CRM". However, its Customer Service Management (CSM) platform has increasingly evolved into a full-fledged CRM solution.
+The first programs I tried writing were on the IBM 1401 that our school district used for what was then called "data processing." This was in 9th grade, so I was 13 or 14. The school district's 1401 happened to be in the basement of our junior high school, and my friend Rich Draves and I got permission to use it. It was like a mini Bond villain's lair down there, with all these alien-looking machines — CPU, disk drives, printer, card reader — sitting up on a raised floor under bright fluorescent lights.
 
-A CRM-Like Evolution
-ServiceNow’s CSM platform now includes:
+The language we used was an early version of Fortran. You had to type programs on punch cards, then stack them in the card reader and press a button to load the program into memory and run it. The result would ordinarily be to print something on the spectacularly loud printer.
 
+I was puzzled by the 1401. I couldn't figure out what to do with it. And in retrospect there's not much I could have done with it. The only form of input to programs was data stored on punched cards, and I didn't have any data stored on punched cards. The only other option was to do things that didn't rely on any input, like calculate approximations of pi, but I didn't know enough math to do anything interesting of that type. So I'm not surprised I can't remember any programs I wrote, because they can't have done much. My clearest memory is of the moment I learned it was possible for programs not to terminate, when one of mine didn't. On a machine without time-sharing, this was a social as well as a technical error, as the data center manager's expression made clear.
 
-As ServiceNow continued adding these capabilities, its platform attracted significant new business. CEO Bill McDermott emphasized this momentum during the company’s latest earnings call:
+With microcomputers, everything changed. Now you could have a computer sitting right in front of you, on a desk, that could respond to your keystrokes as it was running instead of just churning through a stack of punch cards and then stopping. [1]
 
-“[We’re] growing faster than markets, especially the customer service management market.”
+The first of my friends to get a microcomputer built it himself. It was sold as a kit by Heathkit. I remember vividly how impressed and envious I felt watching him sitting in front of it, typing programs right into the computer.
 
-Yet, ServiceNow is not positioning itself as a direct competitor to traditional, out-of-the-box CRM providers. Instead, its strength lies in complex service delivery, leveraging deep integrations with ERP and back-end systems.
+Computers were expensive in those days and it took me years of nagging before I convinced my father to buy one, a TRS-80, in about 1980. The gold standard then was the Apple II, but a TRS-80 was good enough. This was when I really started programming. I wrote simple games, a program to predict how high my model rockets would fly, and a word processor that my father used to write at least one book. There was only room in memory for about 2 pages of text, so he'd write 2 pages at a time and then print them out, but it was a lot better than a typewriter.
 
-With AI-powered automation layered over customer service workflows, ServiceNow aims to deliver a more data-rich CRM experience than existing players in the market.
-
-The AI-Powered CRM Advantage
-Industry experts recognize ServiceNow’s unique value proposition. Martin Schneider, VP & Principal Analyst at Constellation Research, recently noted:
-
-“Because of its history, knowledge, and deep data integration, ServiceNow can provide insights and capabilities that others can’t. Their business relationships are also a huge advantage.”
-
-ServiceNow has access to detailed product, customer, and interaction data—combined with unstructured data management. When integrated with AI, this creates a powerful platform that connects seamlessly with:
-✔ Order management
-✔ Invoicing
-✔ Inventory
-
-With Agentic AI enabling unprecedented automation and efficiency in service workflows, ServiceNow enters the CRM market at a pivotal moment.
-
-Challenges for ServiceNow in the CRM Space
-Despite its strengths, ServiceNow faces key challenges as it expands into the CRM domain.
-
-
-Unlike Salesforce, which offers a plug-and-play solution for businesses of all sizes, ServiceNow requires significant setup and customization.
-
-Companies that successfully implement ServiceNow often invest heavily in connecting service and engagement touchpoints across the enterprise.
-
-ServiceNow’s marketing focuses on high-level messaging around employees, customers, finance, and procurement. Now, it must equip partners and sales teams to take this message beyond IT and into the hands of CX and service leaders.
-
-
-While IT plays a growing role in CRM buying decisions—thanks to AI adoption—final purchasing authority often rests with business leaders in customer service and CX.
-
-ServiceNow must actively engage with these teams and demonstrate the benefits of integrating the contact center into the broader enterprise ecosystem.
-
-Strategic Moves to Overcome These Challenges
-
-In 2024, ServiceNow strengthened its presence in the contact center space, forging co-innovation partnerships with:
-✔ Five9
-✔ Genesys
-✔ Zoom
-
-By building on these relationships, ServiceNow can justify its greater platform complexity while showcasing its AI-powered efficiencies.
-
-
-As Rebecca Wetteman, CEO & Principal Analyst at Valoir, explains:
-
-“Simply handing customers a bunch of AI tools and expecting them to figure it out hasn’t proven to be a winning strategy so far.”
-
-Recognizing this, ServiceNow recently pledged to hire 3,000 new employees—a move that will support its CRM ambitions by ensuring expert-led integrations.
-
-Who Should Consider ServiceNow for CRM?
-ServiceNow isn’t aiming for traditional CRM buyers. Instead, its CRM solution best serves:
-
-🔹 Large enterprises that require a unified service management approach
-🔹 Organizations looking to integrate customer service with back-office operations
-🔹 Businesses already leveraging ServiceNow for ITSM or other enterprise workflows
-
-Industry Endorsements
-In a popular LinkedIn post, Emil Lundvall, Head of ServiceNow Practice Sweden for KPMG, highlighted the significance of this evolution:
-
-“This isn’t just a platform update; it’s a game-changer.”
-
-“By integrating AI-driven agents and automation, ServiceNow is set to revolutionize customer engagement, driving efficiency and enhancing every step of the customer journey.”
-
-“From predictive insights to seamless interactions, this is next-level CRM that will empower organizations to deliver personalized, data-driven experiences at scale.”
-
-While ServiceNow still faces adoption hurdles, companies already using its platform can seamlessly extend it to customer-facing workflows—making it a strong contender in the enterprise CRM space.
-
-ServiceNow’s Next Steps in CRM
-At the 2025 Partner Kickoff, ServiceNow also announced the acquisition of Cuein, a “copilot for customer experience teams”—further solidifying its CRM strategy.
-
-As ServiceNow enters this space, it will challenge Salesforce, Microsoft Dynamics, and Oracle, but with a unique focus:
-
-An AI-powered, enterprise-grade CRM that deeply integrates with the entire business—not just the contact center.
-Subscribe to the CX Today Newsletter and catch industry expert insights in the next episode of our BIG News Update!
-
-This version makes the text engaging, structured, and easy to digest while maintaining all key insights.
+Though I liked programming, I didn't plan to study it in college. In college I was going to study philosophy, which sounded much more powerful. It seemed, to my naive high school self, to be the study of the ultimate truths, compared to which the things studied in other fields would be mere domain knowledge. What I discovered when I got to college was that the other fields took up so much of the space of ideas that there wasn't much left for these supposed ultimate truths. All that seemed left for philosophy were edge cases that people in other fields felt could safely be ignored.
